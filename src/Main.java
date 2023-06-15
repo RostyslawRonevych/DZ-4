@@ -10,7 +10,7 @@ public class Main {
 
 
 class SecondClass {
-    int number = 25;
+    int number = 27;
 
     int printValue (int value) {
         System.out.println(value);
