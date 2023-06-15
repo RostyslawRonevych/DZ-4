@@ -11,7 +11,7 @@ public class Main {
 
 
 class SecondClass {
-    int number = 27;
+    int number = 28;
 
     int printValue (int value) {
         System.out.println("---<" + value + ">---");
